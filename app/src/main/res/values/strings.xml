@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="PPC">https://www.freeprivacypolicy.com/live/f49e7b49-a3bd-494a-95be-95ca867e05e5</string>
+    <string name="info">Bu dastur GITA da tahsil olayotgan Rustamov Zulfiqor tomonidan kursning 5 - haftasida uyga vazifa sifatida ishlab chiqarilgan. Xato va kamchiliklar bo\'lsa izohlarda o\'z fikringizni qoldiring</string>
+
+
+    <style name="lilit">
+        <item name="fontFamily">@raw/lilit</item>
+    </style>
+</resources>
